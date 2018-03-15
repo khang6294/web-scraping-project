@@ -1,4 +1,4 @@
-# ken-project
+# Web-scraping-project
 Web scraping is my personal project and also my practice for using Python.
 
 The purpose of this project:
